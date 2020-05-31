@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-class <$= name | capitalize $> extends Component {
+class <$= name $> extends Component {
     constructor(props) {
         super(props)
         this.state = {}
@@ -16,4 +16,4 @@ class <$= name | capitalize $> extends Component {
     }
 }
 
-export default <$= name | capitalize $>
+export default <$= name $>
