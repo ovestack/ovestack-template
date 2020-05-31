@@ -1,0 +1,1 @@
+<section class="M-<$= className $>"></section>
